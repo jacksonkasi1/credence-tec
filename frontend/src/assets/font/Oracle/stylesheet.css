@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Oracle Sans Extra';
+    src: url('OracleSans-ExtraBold.eot');
+    src: local('Oracle Sans Extra Bold'), local('OracleSans-ExtraBold'),
+        url('OracleSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-ExtraBold.woff2') format('woff2'),
+        url('OracleSans-ExtraBold.woff') format('woff'),
+        url('OracleSans-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-Bold.eot');
+    src: local('Oracle Sans Bold'), local('OracleSans-Bold'),
+        url('OracleSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-Bold.woff2') format('woff2'),
+        url('OracleSans-Bold.woff') format('woff'),
+        url('OracleSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-BoldItalic.eot');
+    src: local('Oracle Sans Bold Italic'), local('OracleSans-BoldItalic'),
+        url('OracleSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-BoldItalic.woff2') format('woff2'),
+        url('OracleSans-BoldItalic.woff') format('woff'),
+        url('OracleSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans Extra';
+    src: url('OracleSans-ExtraBoldItalic.eot');
+    src: local('Oracle Sans Extra Bold Italic'), local('OracleSans-ExtraBoldItalic'),
+        url('OracleSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('OracleSans-ExtraBoldItalic.woff') format('woff'),
+        url('OracleSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-LightItalic.eot');
+    src: local('Oracle Sans Light Italic'), local('OracleSans-LightItalic'),
+        url('OracleSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-LightItalic.woff2') format('woff2'),
+        url('OracleSans-LightItalic.woff') format('woff'),
+        url('OracleSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-Light.eot');
+    src: local('Oracle Sans Light'), local('OracleSans-Light'),
+        url('OracleSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-Light.woff2') format('woff2'),
+        url('OracleSans-Light.woff') format('woff'),
+        url('OracleSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-Italic.eot');
+    src: local('Oracle Sans Italic'), local('OracleSans-Italic'),
+        url('OracleSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-Italic.woff2') format('woff2'),
+        url('OracleSans-Italic.woff') format('woff'),
+        url('OracleSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans';
+    src: url('OracleSans-Regular.eot');
+    src: local('Oracle Sans Regular'), local('OracleSans-Regular'),
+        url('OracleSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-Regular.woff2') format('woff2'),
+        url('OracleSans-Regular.woff') format('woff'),
+        url('OracleSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans Semi';
+    src: url('OracleSans-SemiBoldItalic.eot');
+    src: local('Oracle Sans Semi Bold Italic'), local('OracleSans-SemiBoldItalic'),
+        url('OracleSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-SemiBoldItalic.woff2') format('woff2'),
+        url('OracleSans-SemiBoldItalic.woff') format('woff'),
+        url('OracleSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans Ultra';
+    src: url('OracleSans-UltraLight.eot');
+    src: local('Oracle Sans Ultra Light'), local('OracleSans-UltraLight'),
+        url('OracleSans-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-UltraLight.woff2') format('woff2'),
+        url('OracleSans-UltraLight.woff') format('woff'),
+        url('OracleSans-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans Semi';
+    src: url('OracleSans-SemiBold.eot');
+    src: local('Oracle Sans Semi Bold'), local('OracleSans-SemiBold'),
+        url('OracleSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-SemiBold.woff2') format('woff2'),
+        url('OracleSans-SemiBold.woff') format('woff'),
+        url('OracleSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oracle Sans Ultra';
+    src: url('OracleSans-UltraLightItalic.eot');
+    src: local('Oracle Sans Ultra Light Italic'), local('OracleSans-UltraLightItalic'),
+        url('OracleSans-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('OracleSans-UltraLightItalic.woff2') format('woff2'),
+        url('OracleSans-UltraLightItalic.woff') format('woff'),
+        url('OracleSans-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
